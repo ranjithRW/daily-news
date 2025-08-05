@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import SearchForm from './components/SearchForm';
 import NewsCard from './components/NewsCard';
 import ErrorMessage from './components/ErrorMessage';
